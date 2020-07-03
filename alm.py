@@ -10,3 +10,4 @@ print("bye")
 //
 print("Polarion")
 print("Done")
+print("Bye")
